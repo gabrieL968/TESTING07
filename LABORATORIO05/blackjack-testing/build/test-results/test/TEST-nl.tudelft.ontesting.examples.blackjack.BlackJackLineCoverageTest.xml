@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.ontesting.examples.blackjack.BlackJackLineCoverageTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-04-21T00:03:28" hostname="THUNDER" time="0.042">
+  <properties/>
+  <testcase name="testLeftCardBust()" classname="nl.tudelft.ontesting.examples.blackjack.BlackJackLineCoverageTest" time="0.039"/>
+  <testcase name="testBothCardsValid()" classname="nl.tudelft.ontesting.examples.blackjack.BlackJackLineCoverageTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
